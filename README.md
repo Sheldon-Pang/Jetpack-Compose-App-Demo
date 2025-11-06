@@ -2,12 +2,6 @@
 
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -17,10 +11,10 @@
     <img src="images/logo_white.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">To Do App with Jetpack Compose</h3>
+<h3 align="center">Andriod App with Jetpack Compose</h3>
 
   <p align="center">
-    A to do app that helps to track your tasks and improve productivity
+    An Android productivity app project demonstrating Clean Architecture and MVVM patterns.
     <br />
     <br />
     <br />
@@ -90,8 +84,6 @@ You can try it out in the Google Play Store!
 ## Contact
 
 Sheldon Pang - SheldonLinkedin@yahoo.com
-
-Project Link: [https://github.com/Sheldon_Pang/To-Do-App-with-Jetpack-Compose](https://github.com/Sheldon_Pang/To-Do-App-with-Jetpack-Compose)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
