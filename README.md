@@ -63,23 +63,6 @@ Version 1.0
  - Sort all tasks by priority level
  - Support dark theme
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-You can try it out in the Google Play Store!
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
